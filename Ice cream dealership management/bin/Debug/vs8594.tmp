@@ -1,0 +1,1076 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Ice cream dealership management
+</name>
+</assembly>
+<members>
+<member name="T:Ice_cream_dealership_management.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Ice_cream_dealership_management.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Ice_cream_dealership_management.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Ice_cream_dealership_management.My.Resources.Resources.blue_delete_button_png_29">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ice_cream_dealership_management.My.Resources.Resources.button_circle_add_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ice_cream_dealership_management.My.Resources.Resources.f51220af0a9d200aba4b1574f3f34830_reload_icon_by_vexels">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ice_cream_dealership_management.My.Resources.Resources.index">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ice_cream_dealership_management.My.Resources.Resources.index1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ice_cream_dealership_management.My.Resources.Resources.index11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ice_cream_dealership_management.My.Resources.Resources.index2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ice_cream_dealership_management.My.Resources.Resources.kisspng_computer_icons_editing_delete_button_5abced852e1b50_7972989815223310131889">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ice_cream_dealership_management.My.Resources.Resources.money_sign_button1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ice_cream_dealership_management.My.Resources.Resources.Nimvelo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ice_cream_dealership_management.My.Resources.Resources.photo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ice_cream_dealership_management.My.Resources.Resources.sound">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Ice_cream_dealership_management.My.Resources.Resources.Zerode_Plump_Search">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblAttendenceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblAttendenceReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblBankAccountsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblBanksDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblCompanySettingsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblCusomterAccountsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblCustomersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblDamageProductsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblDuesReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblEmployeeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblEmployeeAccountsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblExpenseCategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblExpenseReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblExpensesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblExpenseSubcategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblFridgesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblIncomeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblIncomeCategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblIncomeSubcategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblInvoiceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblNotesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblProductCategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblProductsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblPurchaseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblPurchaseInvoiceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblPurchaseReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblSalesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblSalesreportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblSupplierAccountsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblSuppliersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblTransactionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblTransactionReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblUserDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblRentCDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblRentSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblProfitDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblDamageFridgeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblNoticeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblDeliveryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblRentCSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblSignboardDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblassetDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblwithdrawDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblPCommissionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblSCommissionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblVehicleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblVehicleAccountsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblAttendenceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblAttendenceReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblBankAccountsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblBanksRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblCompanySettingsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblCusomterAccountsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblCustomersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblDamageProductsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblDuesReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblEmployeeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblEmployeeAccountsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblExpenseCategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblExpenseReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblExpensesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblExpenseSubcategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblFridgesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblIncomeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblIncomeCategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblIncomeSubcategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblInvoiceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblNotesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblProductCategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblProductsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblPurchaseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblPurchaseInvoiceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblPurchaseReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblSalesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblSalesreportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblSupplierAccountsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblSuppliersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblTransactionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblTransactionReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblUserRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblRentCRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblRentSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblProfitRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblDamageFridgeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblNoticeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblDeliveryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblRentCSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblSignboardRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblassetRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblwithdrawRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblPCommissionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblSCommissionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblVehicleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblVehicleAccountsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblAttendenceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblAttendenceReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblBankAccountsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblBanksRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblCompanySettingsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblCusomterAccountsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblCustomersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblDamageProductsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblDuesReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblEmployeeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblEmployeeAccountsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblExpenseCategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblExpenseReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblExpensesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblExpenseSubcategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblFridgesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblIncomeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblIncomeCategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblIncomeSubcategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblInvoiceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblNotesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblProductCategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblProductsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblPurchaseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblPurchaseInvoiceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblPurchaseReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblSalesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblSalesreportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblSupplierAccountsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblSuppliersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblTransactionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblTransactionReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblUserRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblRentCRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblRentSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblProfitRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblDamageFridgeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblNoticeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblDeliveryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblRentCSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblSignboardRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblassetRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblwithdrawRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblPCommissionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblSCommissionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblVehicleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSet.tblVehicleAccountsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblAttendenceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblAttendenceReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblBankAccountsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblBanksTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblCompanySettingsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblCusomterAccountsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblCustomersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblDamageProductsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblDuesReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblEmployeeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblEmployeeAccountsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblExpenseCategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblExpenseReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblExpensesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblExpenseSubcategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblFridgesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblIncomeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblIncomeCategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblIncomeSubcategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblInvoiceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblNotesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblProductCategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblProductsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblPurchaseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblPurchaseInvoiceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblPurchaseReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblSalesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblSalesreportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblSupplierAccountsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblSuppliersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblTransactionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblTransactionReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblUserTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblRentCTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblRentSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblProfitTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblDamageFridgeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblNoticeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblDeliveryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblRentCSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblSignboardTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblassetTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblwithdrawTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblPCommissionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblSCommissionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblVehicleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.tblVehicleAccountsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Ice_cream_dealership_management.dataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Ice_cream_dealership_management.dataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Ice_cream_dealership_management.dataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Ice_cream_dealership_management.dataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Ice_cream_dealership_management.dataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Ice_cream_dealership_management.dataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Ice_cream_dealership_management.dataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Ice_cream_dealership_management.dataSetTableAdapters.TableAdapterManager.UpdateAll(Ice_cream_dealership_management.dataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Ice_cream_dealership_management.dataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

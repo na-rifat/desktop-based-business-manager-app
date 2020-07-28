@@ -1,0 +1,674 @@
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.vbproj.App.config
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.vbprojResolveAssemblyReference.cache
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addBank.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addCustomer.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addDamageProducts.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addEmployee.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addFridge.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addNote.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addProducts.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addSupplier.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.all.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.asset.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.attendenceReport.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.avg_dis.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.backup.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.cal.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.cashReport.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.companySettings.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.createUser.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.customerAccounts.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.damageFridge.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.Dashboard.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.discount.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.documents.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.dueReport.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.employeeAccounts.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.employeeAttendence.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.exepenseCategory.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.expenseReport.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.Form1.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.frmBanks.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.incomeCategory.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.license.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.login.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.Manage_sale.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageAsset.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageBankAccounts.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageCustomer.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageDamageProducts.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageEmployee.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageExepense.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageFridge.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageIncome.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageProducts.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.managePurchase.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageStock.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageSupplier.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageTransaction.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageVehicle.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.Resources.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.myaccount.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newExpense.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newIncome.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newPurchase.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newSale.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newVehicle.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.payCustomerRent.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.paySupplierRent.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.pay_due.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.pinc.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.prnt.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.prntF.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.productCommission.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.productDelivery.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.productsCategory.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.document_category.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.profitCalculator.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.purchaseReport.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.purchaseSeason.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.rentFromSupplier.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.rentToCustomer.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.returnDamage.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.returnDamageFridge.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.salesReport.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.salesSeason.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.sell_on_commission.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.signBoard.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.supplierAccounts.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.transactionReport.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.userRoles.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.vehicleAccounts.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.withdraw.resources
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.vbproj.GenerateResource.Cache
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.xml
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.exe.config
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\data.mdf
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\data_log.ldf
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.exe.manifest
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.application
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.exe
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.pdb
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.xml
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\CircularProgressBar.dll
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Auth.dll
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Core.dll
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.dll
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Drive.v2.dll
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.PlatformServices.dll
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Microsoft.Threading.Tasks.dll
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Newtonsoft.Json.dll
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Net.Http.Extensions.dll
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Net.Http.Primitives.dll
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Tiger.Clock.dll
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\WinFormAnimation.dll
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Zlib.Portable.dll
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\CircularProgressBar.xml
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.pdb
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.xml
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Auth.pdb
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Auth.xml
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Core.pdb
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Core.xml
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Drive.v2.pdb
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Drive.v2.xml
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Microsoft.Threading.Tasks.xml
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Newtonsoft.Json.xml
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Net.Http.Extensions.xml
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Net.Http.Primitives.xml
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Tiger.Clock.xml
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\WinFormAnimation.xml
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Zlib.Portable.pdb
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.TrustInfo.xml
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.exe.manifest
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.application
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.exe
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.pdb
+F:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.date_changer.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.exe.config
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.exe
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.xml
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.pdb
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\data.mdf
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\data_log.ldf
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.exe.manifest
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.application
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.exe
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.pdb
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.xml
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\CircularProgressBar.dll
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Auth.dll
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Core.dll
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.dll
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Drive.v2.dll
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.PlatformServices.dll
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Microsoft.Threading.Tasks.dll
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Newtonsoft.Json.dll
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Net.Http.Extensions.dll
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Net.Http.Primitives.dll
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Tiger.Clock.dll
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\WinFormAnimation.dll
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Zlib.Portable.dll
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\CircularProgressBar.xml
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.pdb
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.xml
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Auth.pdb
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Auth.xml
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Core.pdb
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Core.xml
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Drive.v2.pdb
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Drive.v2.xml
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Microsoft.Threading.Tasks.xml
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Newtonsoft.Json.xml
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Net.Http.Extensions.xml
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Net.Http.Primitives.xml
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Tiger.Clock.xml
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\WinFormAnimation.xml
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Zlib.Portable.pdb
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.vbproj.App.config
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.vbprojResolveAssemblyReference.cache
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addBank.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addCustomer.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addDamageProducts.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addEmployee.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addFridge.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addNote.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addProducts.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addSupplier.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.all.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.asset.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.attendenceReport.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.avg_dis.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.backup.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.cal.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.cashReport.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.companySettings.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.createUser.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.customerAccounts.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.damageFridge.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.Dashboard.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.date_changer.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.discount.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.documents.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.dueReport.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.employeeAccounts.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.employeeAttendence.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.exepenseCategory.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.expenseReport.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.Form1.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.frmBanks.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.incomeCategory.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.license.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.login.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.Manage_sale.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageAsset.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageBankAccounts.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageCustomer.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageDamageProducts.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageEmployee.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageExepense.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageFridge.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageIncome.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageProducts.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.managePurchase.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageStock.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageSupplier.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageTransaction.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageVehicle.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.Resources.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.myaccount.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newExpense.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newIncome.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newPurchase.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newSale.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newVehicle.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.payCustomerRent.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.paySupplierRent.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.pay_due.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.pinc.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.prnt.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.prntF.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.productCommission.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.productDelivery.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.productsCategory.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.document_category.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.profitCalculator.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.purchaseReport.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.purchaseSeason.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.rentFromSupplier.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.rentToCustomer.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.returnDamage.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.returnDamageFridge.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.salesReport.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.salesSeason.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.sell_on_commission.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.signBoard.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.supplierAccounts.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.transactionReport.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.userRoles.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.vehicleAccounts.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.withdraw.resources
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.vbproj.GenerateResource.Cache
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.TrustInfo.xml
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.exe.manifest
+I:\Source files\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.application
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.exe.config
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.exe
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.xml
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.pdb
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\data.mdf
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\data_log.ldf
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.exe
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.pdb
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.xml
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\CircularProgressBar.dll
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Core.dll
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.dll
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Drive.v2.dll
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Tiger.Clock.dll
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\WinFormAnimation.dll
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Zlib.Portable.dll
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\CircularProgressBar.xml
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.pdb
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.xml
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Drive.v2.pdb
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Drive.v2.xml
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Tiger.Clock.xml
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\WinFormAnimation.xml
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Zlib.Portable.pdb
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.vbproj.App.config
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addBank.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addCustomer.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addDamageProducts.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addEmployee.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addFridge.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addNote.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addProducts.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addSupplier.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.all.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.asset.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.attendenceReport.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.avg_dis.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.backup.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.cal.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.cashReport.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.companySettings.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.createUser.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.customerAccounts.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.damageFridge.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.Dashboard.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.date_changer.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.discount.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.documents.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.dueReport.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.employeeAccounts.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.employeeAttendence.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.exepenseCategory.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.expenseReport.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.Form1.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.frmBanks.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.incomeCategory.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.license.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.login.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.Manage_sale.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageAsset.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageBankAccounts.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageCustomer.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageDamageProducts.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageEmployee.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageExepense.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageFridge.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageIncome.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageProducts.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.managePurchase.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageStock.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageSupplier.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageTransaction.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageVehicle.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.Resources.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.myaccount.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newExpense.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newIncome.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newPurchase.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newSale.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newVehicle.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.payCustomerRent.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.paySupplierRent.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.pay_due.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.pinc.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.prnt.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.prntF.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.productCommission.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.productDelivery.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.productsCategory.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.document_category.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.profitCalculator.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.purchaseReport.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.purchaseSeason.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.rentFromSupplier.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.rentToCustomer.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.returnDamage.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.returnDamageFridge.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.salesReport.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.salesSeason.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.sell_on_commission.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.signBoard.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.supplierAccounts.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.transactionReport.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.userRoles.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.vehicleAccounts.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.withdraw.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.vbproj.GenerateResource.Cache
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.TrustInfo.xml
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.exe.manifest
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.exe.manifest
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.application
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.application
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.print_invoice.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.print_profit.resources
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.vbprojResolveAssemblyReference.cache
+C:\Users\Rifat\Desktop\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.sold_products.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\data.mdf
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\data_log.ldf
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.exe.config
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.exe.manifest
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.application
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.exe
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.pdb
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.xml
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\CircularProgressBar.dll
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Auth.dll
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Core.dll
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.dll
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Drive.v2.dll
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Newtonsoft.Json.dll
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Net.Http.Extensions.dll
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Net.Http.Primitives.dll
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Tiger.Clock.dll
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\WinFormAnimation.dll
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Zlib.Portable.dll
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\CircularProgressBar.xml
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.pdb
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.xml
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Auth.pdb
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Auth.xml
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Core.pdb
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Drive.v2.pdb
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Drive.v2.xml
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Newtonsoft.Json.xml
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Net.Http.Extensions.xml
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Net.Http.Primitives.xml
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Tiger.Clock.xml
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\WinFormAnimation.xml
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Zlib.Portable.pdb
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.vbproj.App.config
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addBank.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addCustomer.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addDamageProducts.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addEmployee.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addFridge.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addNote.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addProducts.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addSupplier.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.all.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.asset.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.attendenceReport.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.avg_dis.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.backup.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.cal.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.cashReport.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.companySettings.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.createUser.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.customerAccounts.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.damageFridge.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.Dashboard.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.date_changer.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.discount.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.documents.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.dueReport.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.employeeAccounts.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.employeeAttendence.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.exepenseCategory.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.expenseReport.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.Form1.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.frmBanks.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.incomeCategory.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.license.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.login.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.Manage_sale.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageAsset.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageBankAccounts.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageCustomer.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageDamageProducts.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageEmployee.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageExepense.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageFridge.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageIncome.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageProducts.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.managePurchase.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageStock.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageSupplier.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageTransaction.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageVehicle.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.Resources.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.myaccount.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newExpense.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newIncome.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newPurchase.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newSale.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newVehicle.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.payCustomerRent.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.paySupplierRent.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.pay_due.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.pinc.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.print_invoice.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.print_profit.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.prnt.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.prntF.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.productCommission.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.productDelivery.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.productsCategory.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.document_category.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.profitCalculator.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.purchaseReport.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.purchaseSeason.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.rentFromSupplier.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.rentToCustomer.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.returnDamage.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.returnDamageFridge.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.salesReport.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.salesSeason.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.sales_target.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.sell_on_commission.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.signBoard.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.sold_products.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.supplierAccounts.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.transactionReport.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.userRoles.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.vehicleAccounts.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.withdraw.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.vbproj.GenerateResource.Cache
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.TrustInfo.xml
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.exe.manifest
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.application
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.exe
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.xml
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.pdb
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.vbprojResolveAssemblyReference.cache
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.clear_data.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.stock_statement.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.email_sender.resources
+D:\Work\Visual basics\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.daily_expense_printer.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\data.mdf
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\data_log.ldf
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.exe.config
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.exe.manifest
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.application
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.exe
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.pdb
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Ice cream dealership management.xml
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\CircularProgressBar.dll
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Auth.dll
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Core.dll
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.dll
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Drive.v2.dll
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Newtonsoft.Json.dll
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Net.Http.Extensions.dll
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Net.Http.Primitives.dll
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Tiger.Clock.dll
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\WinFormAnimation.dll
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Zlib.Portable.dll
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\CircularProgressBar.xml
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.pdb
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.xml
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Auth.pdb
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Auth.xml
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Core.pdb
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Drive.v2.pdb
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Google.Apis.Drive.v2.xml
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Newtonsoft.Json.xml
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Net.Http.Extensions.xml
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\System.Net.Http.Primitives.xml
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Tiger.Clock.xml
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\WinFormAnimation.xml
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\bin\Debug\Zlib.Portable.pdb
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.vbproj.App.config
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addBank.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addCustomer.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addDamageProducts.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addEmployee.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addFridge.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addNote.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addProducts.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.addSupplier.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.all.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.asset.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.attendenceReport.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.avg_dis.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.backup.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.cal.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.cashReport.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.clear_data.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.companySettings.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.createUser.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.customerAccounts.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.daily_expense_printer.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.damageFridge.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.Dashboard.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.date_changer.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.discount.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.documents.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.dueReport.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.email_sender.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.employeeAccounts.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.employeeAttendence.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.exepenseCategory.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.expenseReport.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.Form1.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.frmBanks.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.incomeCategory.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.license.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.login.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.Manage_sale.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageAsset.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageBankAccounts.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageCustomer.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageDamageProducts.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageEmployee.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageExepense.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageFridge.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageIncome.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageProducts.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.managePurchase.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageStock.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageSupplier.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageTransaction.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.manageVehicle.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.Resources.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.myaccount.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newExpense.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newIncome.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newPurchase.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newSale.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.newVehicle.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.payCustomerRent.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.paySupplierRent.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.pay_due.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.pinc.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.print_invoice.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.print_profit.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.prnt.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.prntF.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.productCommission.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.productDelivery.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.productsCategory.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.document_category.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.profitCalculator.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.purchaseReport.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.purchaseSeason.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.rentFromSupplier.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.rentToCustomer.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.returnDamage.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.returnDamageFridge.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.salesReport.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.salesSeason.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.sales_target.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.sell_on_commission.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.signBoard.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.sold_products.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.stock_statement.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.supplierAccounts.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.transactionReport.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.userRoles.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.vehicleAccounts.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice_cream_dealership_management.withdraw.resources
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.vbproj.GenerateResource.Cache
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.TrustInfo.xml
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.exe.manifest
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.application
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.exe
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.xml
+D:\Ice_cream_dealership_management - main\Ice cream dealership management\obj\Debug\Ice cream dealership management.pdb
+D:\Storage\Work\Visual basics\Ice_cream_dealership_management\Ice cream dealership management\bin\Debug\Ice cream dealership management.exe.config
+D:\Storage\Work\Visual basics\Ice_cream_dealership_management\Ice cream dealership management\obj\Debug\Ice cream dealership management.exe
+D:\Storage\Work\Visual basics\Ice_cream_dealership_management\Ice cream dealership management\obj\Debug\Ice cream dealership management.xml
+D:\Storage\Work\Visual basics\Ice_cream_dealership_management\Ice cream dealership management\obj\Debug\Ice cream dealership management.pdb
